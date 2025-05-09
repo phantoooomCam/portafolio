@@ -9,7 +9,7 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: "UPII-Market",
+      title: "UNII-Market",
       description:
         "Aplicación de entrega de comida desarrollada con HTML, CSS, JavaScript, Python, Flask y SQL Server.",
       category: "web",
